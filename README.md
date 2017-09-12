@@ -4,7 +4,7 @@
 
 Generic Personal Schedule System 
 --> As a learning material
---> should be future proof and generic enought to be used on planned e-course system 
+--> should be future proof and generic enough to be used on planned e-course system 
  
 Spesifikasi :
 -Berupa REST API
